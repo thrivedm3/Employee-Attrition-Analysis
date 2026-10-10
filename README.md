@@ -1,4 +1,4 @@
-# 📉 Employee Attrition Analysis Dashboard
+# 📉 Employee Attrition Analysis
 
 ## 📝 Short Description
 An interactive Power BI dashboard that shows who is leaving a company, where attrition is highest, and what is driving it. It exists to help HR spot high-risk employee groups early and take targeted action to retain talent.
